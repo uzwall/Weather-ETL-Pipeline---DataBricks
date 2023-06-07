@@ -25,10 +25,6 @@ To use the Weather Data API ETL, follow these steps:
 
 Contributions to the Weather Data API ETL are welcome! If you find any issues or have ideas for enhancements, please submit an issue or pull request. Make sure to follow the existing code style and include relevant tests and documentation.
 
-## License
-
-The Weather Data API ETL is released under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the terms of the license.
-
 ## Contact
 
 For any questions or inquiries, please contact [contact@uzwal.com](mailto:baraluzwal@gmail.com).
